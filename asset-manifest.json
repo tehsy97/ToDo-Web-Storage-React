@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/ToDo-Web-Storage-React/static/js/main.16ed7032.chunk.js",
+    "main.js.map": "/ToDo-Web-Storage-React/static/js/main.16ed7032.chunk.js.map",
+    "runtime-main.js": "/ToDo-Web-Storage-React/static/js/runtime-main.bcf4bb68.js",
+    "runtime-main.js.map": "/ToDo-Web-Storage-React/static/js/runtime-main.bcf4bb68.js.map",
+    "static/js/2.ae9f55b7.chunk.js": "/ToDo-Web-Storage-React/static/js/2.ae9f55b7.chunk.js",
+    "static/js/2.ae9f55b7.chunk.js.map": "/ToDo-Web-Storage-React/static/js/2.ae9f55b7.chunk.js.map",
+    "index.html": "/ToDo-Web-Storage-React/index.html",
+    "precache-manifest.ecb96a135334d514a7633025fb96e048.js": "/ToDo-Web-Storage-React/precache-manifest.ecb96a135334d514a7633025fb96e048.js",
+    "service-worker.js": "/ToDo-Web-Storage-React/service-worker.js",
+    "static/js/2.ae9f55b7.chunk.js.LICENSE.txt": "/ToDo-Web-Storage-React/static/js/2.ae9f55b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcf4bb68.js",
+    "static/js/2.ae9f55b7.chunk.js",
+    "static/js/main.16ed7032.chunk.js"
+  ]
+}
